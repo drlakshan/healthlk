@@ -10,3 +10,11 @@ img {
   background-color: #333528;
   background-image: none;
 }
+
+/* change the backgroud of the wrapper*/
+
+
+#main-wrapper{
+  background-color: #7A9F36;
+}
+
