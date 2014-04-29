@@ -18,3 +18,130 @@ img {
   background-color: #7A9F36;
 }
 
+#header_wrapper{
+  background-color: #333528;
+  height: auto;
+  margin: 0 auto;
+  padding: 0;
+  width: 1000px;
+}
+
+#navigation{
+padding: 0 0 0 123px;
+background: #ec7575;
+}
+
+ul#menu {
+overflow: hidden;
+margin: 0;
+padding: 0;
+list-style-type: none;
+
+}
+
+ul#menu li {
+float: left;
+margin-bottom: 0;
+margin-right: 0;
+}
+
+
+.txt1 {
+	font-family: Taoma, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #FFFFFF;
+}
+.txt2 {
+	font-family: Taoma, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #ffedb8;
+}
+.txt3 {
+	font-family: Taoma, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #a09f9f;
+}
+.txt4 {
+	font-family: Taoma, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #3c3c3c;
+}
+.txt5 {
+	font-family: Taoma, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333528;
+	line-height:20px;
+}
+.txt6 {
+	font-family: Taoma, Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	color: #FFFFFF;
+}
+.txt7 {
+	font-family: Taoma, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFFFF;
+}
+.txt8 {
+	font-family: Taoma, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #FFFFFF;
+}
+.txt9 {
+	font-family: Taoma, Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	color: #e7573c;
+}
+.txt10 {
+	font-family: Taoma, Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	color: #6c695b;
+}
+
+
+
+a:link {
+	font-family: Taoma, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFFFF;
+}
+a:visited {
+	font-family: Taoma, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFFFF;
+}
+a:hover {
+	font-family: Taoma, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFFFF;
+}
+a:active {
+	font-family: Taoma, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFFFF;
+}
+
+#main {
+  margin-top:0px;
+  margin-bottom: 40px;
+}
+
+ul#first_list 
+{
+list-style-type: none;
+padding: 0px;
+margin: 0px;
+}
+
+ul#first_list li { 
+background-image:url(../images/home/11.jpg);
+background-repeat: no-repeat;
+background-position: 0px 5px;
+padding-left: 25px; 
+}
+
+ul#first_list li a {
+color:#908ca2;
+font-size:13px;
+font-family:Tahoma;
+}
